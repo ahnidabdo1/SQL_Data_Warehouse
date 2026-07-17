@@ -5,3 +5,4 @@ Welcome to my data warehouse analytics project repository! This project demonstr
 -----
 # Data Architecture
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![Data Architecture].(docs/data_arch.jpg).
