@@ -16,7 +16,6 @@ DROP DATABASE IF EXISTS "DataWarehouse" WITH (FORCE);
 CREATE DATABASE "DataWarehouse";
 
 -- Connect to the newly created database 
--- (This is the Postgres equivalent of "USE DataWarehouse;")
 \c "DataWarehouse"
 
 -- Create Schemas
